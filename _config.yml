@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yue Shang / ongoing personal website:)"
+title                    : "Yue Shang"
 title_separator          : "-"
 name                     : &name "Yue Shang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yue Shang"
   pronouns         : "she/her"  
-  bio              : "3rd year PhD student in Biophysics/Softmatter"
+  bio              : "PhD student in Biophysics/Softmatter"
   location         : "2N5C DRL"
   employer         : "University of Pennsylvania"
   uri              : # URL
